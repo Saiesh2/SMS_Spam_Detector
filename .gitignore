@@ -1,0 +1,14 @@
+spamApp
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Pickle files (optional – include only if allowed)
+# *.pkl
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Streamlit
+.streamlit/
