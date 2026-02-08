@@ -28,15 +28,13 @@ The trained ML model is deployed using **Streamlit**, providing a clean and inte
 
 <div align="center">
 
-### 🔹 Home Screen  
-<img src="<img width="1906" height="698" alt="image" src="https://github.com/user-attachments/assets/eeccc4d0-e567-434e-8a5f-a83cb4425e9a" />
-" alt="Home Screen" width="700"/>
+### 🔹 Not Spam   
+"<img width="1906" height="698" alt="image" src="https://github.com/user-attachments/assets/eeccc4d0-e567-434e-8a5f-a83cb4425e9a" />
 
 <br/><br/>
 
-### 🔹 Prediction Result  
-<img src="<img width="1913" height="743" alt="image" src="https://github.com/user-attachments/assets/5d09cd17-63e5-46bd-9753-8ed2e1e16081" />
-" alt="Prediction Result" width="700"/>
+### 🔹 Spam 
+<img width="1913" height="743" alt="image" src="https://github.com/user-attachments/assets/5d09cd17-63e5-46bd-9753-8ed2e1e16081" />
 
 </div>
 
